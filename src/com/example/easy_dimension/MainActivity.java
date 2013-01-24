@@ -1,4 +1,4 @@
-package com.example.myapp01;
+package com.example.easy_dimension;
 
 import android.os.Bundle;
 import android.app.Activity;
